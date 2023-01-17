@@ -3,11 +3,11 @@
   height: 72px;
   display: inline-block;
   position: relative;
-  border: 2px solid #fff;
+  border: 2px solid #f6f6f6;
   animation: fill 2s linear infinite alternate;
   color: #c18244;
   border-radius: 0 0 4px 4px;
-  transform: perspective(140px) rotateX(-45deg);
+  transform: perspective(140px) rotateX(-45deg)
 }
 
 @keyframes fill {
